@@ -1,3 +1,5 @@
-# dwr-956
-Dirctory for info and dumps regarding D-links DWR-956, LTE router.
-Som dirs. and files are placed like the linux filesystem. (etc, proc, sys, root)
+D-link DWR-956 (LTE 802.11ac Router) - Telenor Norway
+
+root password: H00rnstuu11
+
+Keys and script to decrypt the openssl encrypted firmware updates are located within the "Firmware Updates" folder.
